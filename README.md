@@ -2,7 +2,7 @@
 
   <h3>Real-Time Environmental Monitoring: A Smart Approach to Air and Water Safety</h3>
 
-<b>Introduction:</b> This project involves creating a comprehensive system by using Io sensors to monitor the quality in air and water. Which aims to detect the real time pollution levels and send alerts. <hr>
+<b>Introduction:</b> This project involves creating a comprehensive system by using IoT sensors to monitor the quality in air and water. Which aims to detect the real time pollution levels and send alerts. <hr>
 Significance: the continuous monitoring of air and water which can protect public health by preventing them to contaminants and also help towards creating smart, sustainable cities. 
 ## Approach
 -  IoT Sensors: Collect air and water quality data.
